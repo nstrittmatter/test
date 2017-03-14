@@ -1,0 +1,14 @@
+#create, .box {
+    width: 210px;
+    height: 220px;
+    padding: 17px;
+    border: 2px solid;
+    float:left;
+}
+
+#characters{
+    width: 744px;
+    height: 254px;
+    border: 2px solid black;
+    float:left;
+}
